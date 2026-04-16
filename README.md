@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Namitha 👋</h1>
+<h1 align="center">Hi there, I'm Naga Namitha S 👋</h1>
 
 <p align="center">
   🎓 Student | 💻 Aspiring Developer | 🌱 Always Learning
